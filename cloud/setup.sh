@@ -1,0 +1,1 @@
+# Execute this script to setup new machines on cloud
